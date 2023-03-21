@@ -1,4 +1,4 @@
-# DIO
+# DIO - referências:
 
 ## [Estrutura de dados em Java](https://github.com/jrdutra/estruturaDeDadosJavaDio)
 
