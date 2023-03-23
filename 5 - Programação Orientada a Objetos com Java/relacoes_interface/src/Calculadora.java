@@ -7,7 +7,7 @@ class Calculadora implements OperacaoMatematica {
 
     @Override
     public void subtracao(double operando1, double operando2) {
-        System.out.println("Subtração = " + operando1 - operando2);
+        System.out.println("Subtração = " + (operando1 - operando2));
     }
 
     @Override
