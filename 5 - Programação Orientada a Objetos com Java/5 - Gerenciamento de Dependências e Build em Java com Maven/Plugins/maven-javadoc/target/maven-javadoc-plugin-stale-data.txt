@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-javadoc 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'maven-javadoc 1.0-SNAPSHOT API'
+one.digitalinnovation
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/src/main/java = 1680200118838
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/type-search-index.zip = 1680204441689
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/allclasses.html = 1680204441825
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/element-list = 1680204441185
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/jquery-ui.overrides.css = 1680204441957
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/allpackages-index.html = 1680204441757
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/deprecated-list.html = 1680204441813
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/member-search-index.zip = 1680204441693
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/index.html = 1680204441841
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/overview-tree.html = 1680204441513
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/search.js = 1680204441885
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/help-doc.html = 1680204441861
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/index-all.html = 1680204441701
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/member-search-index.js = 1680204441693
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/allclasses-index.html = 1680204441749
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/constant-values.html = 1680204441325
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/stylesheet.css = 1680204441873
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/package-search-index.js = 1680204441613
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/package-search-index.zip = 1680204441685
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/script.js = 1680204441877
+/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/5 - Gerenciamento de Dependências e Build em Java com Maven/Plugins/maven-javadoc/target/site/apidocs/type-search-index.js = 1680204441689
