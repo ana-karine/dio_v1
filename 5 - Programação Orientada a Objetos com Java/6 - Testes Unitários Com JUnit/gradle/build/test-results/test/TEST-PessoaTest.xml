@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PessoaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-01T10:51:49" hostname="DESKTOP-ODLTUEI" time="0.081">
+  <properties/>
+  <testcase name="validarCalculoDeIdade()" classname="PessoaTest" time="0.081"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
