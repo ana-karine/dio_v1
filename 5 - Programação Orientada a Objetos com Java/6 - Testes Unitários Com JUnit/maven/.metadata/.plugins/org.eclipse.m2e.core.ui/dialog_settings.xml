@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\ana\source\repos\dio\5 - Programação Orientada a Objetos com Java\6 - Testes Unitários Com JUnit"/>
 			<item value="/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/6 - Testes Unitários Com JUnit/maven"/>
 			<item value="/home/ana/Documentos/dio/5 - Programação Orientada a Objetos com Java/6 - Testes Unitários Com JUnit"/>
 		</list>
@@ -49,6 +50,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
