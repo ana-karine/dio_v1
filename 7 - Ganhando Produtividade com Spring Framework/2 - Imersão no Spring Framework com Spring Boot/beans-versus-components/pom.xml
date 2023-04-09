@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dio</groupId>
-	<artifactId>springboot.app</artifactId>
+	<artifactId>beans-versus-components</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot.app</name>
 	<description>Beans versus Components com Spring Boot</description>
