@@ -1,4 +1,4 @@
-package com.example.dioclass.apirest.MyfirstApi;
+package com.example.dioclass.apirest.MyFirstApi;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

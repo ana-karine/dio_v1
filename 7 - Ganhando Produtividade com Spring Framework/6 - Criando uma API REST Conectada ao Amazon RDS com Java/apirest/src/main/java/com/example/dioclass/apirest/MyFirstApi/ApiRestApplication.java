@@ -1,17 +1,15 @@
-package com.example.dioclass.apirest;
+package com.example.dioclass.apirest.MyFirstApi;
 
-import com.example.dioclass.apirest.MyfirstApi.Person;
-import com.example.dioclass.apirest.MyfirstApi.PersonRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class ApirestApplication {
+public class ApiRestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApirestApplication.class, args);
+		SpringApplication.run(ApiRestApplication.class, args);
 	}
 
 	@Bean
